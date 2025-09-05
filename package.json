@@ -1,12 +1,12 @@
 {
-  "name": "e3-hacker-md",
+  "name": "e3-waqar-md",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By E3-HACKER-MD Official",
+  "description": "A WhatsApp Bot Created By E3-WAQAR-MD Official",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name E3-HACKER-MD",
-    "stop": "pm2 stop E3-HACKER-MD",
-    "restart": "pm2 restart E3-HACKER-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name E3-WAQAR-MD",
+    "stop": "pm2 stop E3-WAQAR-MD",
+    "restart": "pm2 restart E3-WAQAR-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@latest",
