@@ -120,7 +120,7 @@ const port = process.env.PORT || 9090;
   console.log('Plugins installed successful ✅')
   console.log('Bot connected to whatsapp ✅')
   
-  let up = `*Hello there E3-HACKER-MD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet E3-HACKER-MD WhatsApp Bot.\n\n *Thanks for using E3-HACKER-MD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306 \n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/ALUSTADYT/E3-HACKER-MD\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ E3-HACKER-MD Official 🫰 \ud83d\udda4`;
+  let up = `*Hello there E3-WAQAR-MD User! \ud83d\udc4b\ud83c\udffb* \n\n> Simple , Straight Forward But Loaded With Features \ud83c\udf8a, Meet E3-WAQAR-MD WhatsApp Bot.\n\n *Thanks for using E3-WAQAR-MD \ud83d\udea9* \n\n> Join WhatsApp Channel :- ⤵️\n \nhttps://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306 \n\n- *YOUR PREFIX:* = ${prefix}\n\nDont forget to give star to repo ⬇️\n\nhttps://github.com/ALUSTADYT/E3-WAQAR-MD\n\n> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ E3-WAQAR-MD Official 🫰 \ud83d\udda4`;
     conn.sendMessage(conn.user.id, { image: { url: `https://files.catbox.moe/iyudhj.jpg` }, caption: up })
   }
   })
@@ -776,7 +776,7 @@ if (!isReact && config.CUSTOM_REACT === 'true') {
   }
   
   app.get("/", (req, res) => {
-  res.send("E3-HACKER-MD STARTED ✅");
+  res.send("E3-WAQAR-MD STARTED ✅");
   });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
