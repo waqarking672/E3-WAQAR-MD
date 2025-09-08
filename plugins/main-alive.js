@@ -35,8 +35,8 @@ async (conn, mek, m, { from, sender, reply }) => {
                 forwardingScore: 1000,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363348739987203@newsletter',
-                    newsletterName: '𝓐𝓻𝓼𝓵𝓪𝓷_𝓜𝓓',
+                    newsletterJid: '120363318478753709@newsletter',
+                    newsletterName: 'E3-WAQAR-MD',
                     serverMessageId: 143
                 }
             }
