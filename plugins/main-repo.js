@@ -13,7 +13,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/Arslan-MD/Arslan_MD';
+    const githubRepoURL = 'https://github.com/ALUSTADYT/E3-WAQAR-MD';
 
     try {
         // Extract username and repo name from the URL
@@ -33,15 +33,15 @@ async (conn, mek, m, { from, reply }) => {
 
         // Send image with caption
         await conn.sendMessage(from, {
-            image: { url: `https://files.catbox.moe/lcpy9f.jpg` },
+            image: { url: `https://files.catbox.moe/yoie7u.jpg` },
             caption: formattedInfo,
             contextInfo: { 
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363348739987203@newsletter',
-                    newsletterName: '𝓐𝓻𝓼𝓵𝓪𝓷_𝓜𝓓',
+                    newsletterJid: '120363318478753709@newsletter',
+                    newsletterName: 'E3-WAQAR-MD',
                     serverMessageId: 143
                 }
             }
@@ -58,8 +58,8 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363348739987203@newsletter',
-                    newsletterName: '𝓐𝓻𝓼𝓵𝓪𝓷_𝓜𝓓',
+                    newsletterJid: '120363318478753709@newsletter',
+                    newsletterName: 'E3-WAQAR-MD',
                     serverMessageId: 143
                 }
             }
