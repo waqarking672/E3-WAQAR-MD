@@ -3,16 +3,16 @@ const { cmd, commands } = require('../command');
 
 // Array of different fancy text styles for ARSLAN-MD
 const botNameStyles = [
-    "⒜⒭⒮⒧⒜⒩_⒨⒟",
-    "🅰🆁🆂🅻🅰🅽_🅼🅳",
-    "🅐🅡🅢🅛🅐🅝_🅜🅓",
-    "𝓐𝓻𝓼𝓵𝓪𝓷_𝓜𝓓",
-    "𝕬𝖗𝖘𝖑𝖆𝖓_𝕸𝕯",
-    "Ａｒｓｌａｎ＿ＭＤ",
-    "Áŕśĺáń_ḾD",
-    "αяѕℓαη_м∂",
-    "ȺɍsłȺn_MĐ",
-    "ₐᵣₛₗₐₙ_ₘD"
+    "E3-WAQAR-MD",
+    "E3-WAQAR-MD",
+    "E3-WAQAR-MD",
+    "E3-WAQAR-MD",
+    "E3-WAQAR-MD",
+    "E3-WAQAR-MD",
+    "E3-WAQAR-MD",
+    "E3-WAQAR-MD",
+    "E3-WAQAR-MD",
+    "E3-WAQAR-MD"
 ];
 
 // Track current style index
@@ -63,8 +63,8 @@ async (conn, mek, m, { from, quoted, sender, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363348739987203@newsletter',
-                    newsletterName: "𝓐𝓻𝓼𝓵𝓪𝓷_𝓜𝓓",
+                    newsletterJid: '120363318478753709@newsletter',
+                    newsletterName: "E3-WAQAR-MD",
                     serverMessageId: 143
                 }
             }
