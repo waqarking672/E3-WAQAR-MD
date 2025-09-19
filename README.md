@@ -48,12 +48,12 @@
   <table cellspacing="20">
     <tr>
       <td align="center">
-        <a href="https://dashboard.heroku.com/new?template=https://github.com/Arslan-MD/Arslan_MD" target="_blank">
+        <a href="https://dashboard.heroku.com/new?template=https://github.com/ALUSTADYT/E3-WAQAR-MD" target="_blank">
           <img src="https://img.shields.io/badge/Deploy%20to-Heroku-7A3E9D?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://app.koyeb.com/services/deploy?type=git&repository=Arslan-MD/Arslan_MD" target="_blank">
+        <a href="https://app.koyeb.com/services/deploy?type=git&repository=ALUSTADYT/E3-WAQAR-MD" target="_blank">
           <img src="https://img.shields.io/badge/Deploy%20to-Koyeb-FF2D95?style=for-the-badge&logo=koyeb&logoColor=white" alt="Koyeb"/>
         </a>
       </td>
