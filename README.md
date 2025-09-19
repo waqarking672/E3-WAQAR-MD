@@ -128,7 +128,7 @@ Do not sell, misuse, or use without giving credits.
 
 
 
-**NOTE:-** ***✠ YOU CAN ALSO COPY THIS CODE IF CHANNEL CODE EXPIRED FOR FREE DEPLOYMENT OF E3_HACKER-MD ✠***
+**NOTE:-** ***✠ YOU CAN ALSO COPY THIS CODE IF CHANNEL CODE EXPIRED FOR FREE DEPLOYMENT OF E3-WAQAR-MD ✠***
 
 ```
 name: Node.js CI
