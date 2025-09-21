@@ -21,7 +21,7 @@ ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "inbox",
 // change it to 'same' if you want to resend deleted message in same chat     
 WELCOME: process.env.WELCOME || "true",
 // true if want welcome and goodbye msg in groups    
-ADMIN_EVENTS: process.env.ADMIN_EVENTS || "true",
+ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
 // make true to know who dismiss or promoted a member in group
 ANTI_LINK: process.env.ANTI_LINK || "true",
 // make anti link true,false for groups 
@@ -35,7 +35,7 @@ BOT_NAME: process.env.BOT_NAME || "E3-WAQAR-MD",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "E3-WAQAR-MD",
 // type sticker pack name 
-CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
+CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
@@ -53,7 +53,7 @@ LIVE_MSG: process.env.LIVE_MSG || "> Apni Had May Raho Batmeez Insan 🫣",
 // add alive msg here 
 READ_MESSAGE: process.env.READ_MESSAGE || "false",
 // Turn true or false for automatic read msgs
-AUTO_REACT: process.env.AUTO_REACT || "true",
+AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
 ANTI_BAD: process.env.ANTI_BAD || "true",
 // false or true for anti bad words  
