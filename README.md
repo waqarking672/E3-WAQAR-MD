@@ -33,7 +33,7 @@
 
 ## 🔑 𝙂𝙀𝙏 𝙎𝙀𝙎𝙎𝙄𝙊𝙉
 <p align="center">
-  <a href="https://e3-hacker-md-paring.onrender.com/">
+  <a href="https://e3-waqar-md-pair.onrender.com/">
     <img src="https://img.shields.io/badge/Get-Session_ID-00BFFF?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
@@ -50,7 +50,7 @@
       <td align="center">
         <a href="https://dashboard.heroku.com/new?template=https://github.com/ALUSTADYT/E3-WAQAR-MD" target="_blank">
           <img src="https://img.shields.io/badge/Deploy%20to-Heroku-7A3E9D?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
-        </a>
+/        </a>
       </td>
       <td align="center">
         <a href="https://app.koyeb.com/services/deploy?type=git&repository=ALUSTADYT/E3-WAQAR-MD" target="_blank">
