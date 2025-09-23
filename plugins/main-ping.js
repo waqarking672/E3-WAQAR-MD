@@ -1,18 +1,18 @@
 const config = require('../config');
 const { cmd, commands } = require('../command');
 
-// Array of different fancy text styles for ARSLAN-MD
+// Array of different fancy text styles for E3-WAQAR-MD
 const botNameStyles = [
-    "E3-WAQAR-MD",
-    "E3-WAQAR-MD",
-    "E3-WAQAR-MD",
-    "E3-WAQAR-MD",
-    "E3-WAQAR-MD",
-    "E3-WAQAR-MD",
-    "E3-WAQAR-MD",
-    "E3-WAQAR-MD",
-    "E3-WAQAR-MD",
-    "E3-WAQAR-MD"
+    "𓂀 𝔼𝟛-𝕎𝔸ℚ𝔸ℝ-𝕄𝔻 𓂀",
+    "꧁𓊈𒆜🅴3-🆆🅰🆀🅰🆁-🅼🅳𒆜𓊉꧂",
+    "Ⓔ③    -⃝ⓌⒶⓆⒶⓇ    -⃝ⓂⒹ",
+    "🇪 3-🇼 🇦 🇶 🇦 🇷 -🇲 🇩 ",
+    "𝔼𝟛-𝕎𝔸ℚ𝔸ℝ-𝕄𝔻",
+    "𝙀3-𝙒𝘼𝙌𝘼𝙍-𝙈𝘿",
+    "𝙴𝟹-𝚆𝙰𝚀𝙰𝚁-𝙼𝙳",
+    "𝔼𝟛-𝕎𝔸ℚ𝔸ℝ-𝕄𝔻",
+    "ᴱ³⁻ᵂᴬQᴬᴿ⁻ᴹᴰ",
+    "ᴱ³⁻ᵂᴬQᴬᴿ⁻ᴹᴰ"
 ];
 
 // Track current style index
