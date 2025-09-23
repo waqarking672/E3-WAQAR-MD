@@ -1,10 +1,10 @@
 FROM node:lts-buster
 
 # Clone bot from GitHub
-RUN git clone https://github.com/Arslan-MD/Arslan_MD.git /root/arslan-bot
+RUN git clone https://github.com/ALUSTADYT/E3-WAQAR-MD.git /root/e3-waqar-md-bot
 
 # Set working directory
-WORKDIR /root/arslan-bot
+WORKDIR /root/e3-waqar-md-bot
 
 # Install dependencies
 RUN npm install && npm install -g pm2
