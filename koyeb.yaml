@@ -1,6 +1,6 @@
-name: Arslan_MD
+name: E3-WAQAR-MD
 services:
-  - name: arslan_md-service
+  - name: e3-waqar-md-service
     type: web
     ports:
       - 5000
